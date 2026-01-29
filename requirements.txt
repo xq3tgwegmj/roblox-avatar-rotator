@@ -1,0 +1,6 @@
+requests
+pystray
+Pillow
+winotify
+pyinstaller
+flask

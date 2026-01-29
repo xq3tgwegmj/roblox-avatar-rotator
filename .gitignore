@@ -1,0 +1,29 @@
+# Build artifacts (PyInstaller)
+build/
+dist/
+*.spec
+
+# Logs
+*.log
+*.txt
+!requirements.txt
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+.eggs/
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
